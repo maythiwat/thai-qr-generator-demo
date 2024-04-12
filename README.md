@@ -1,15 +1,2 @@
-# Elysia with Bun runtime
-
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
-```bash
-bun create elysia ./elysia-example
-```
-
-## Development
-To start the development server run:
-```bash
-bun run dev
-```
-
-Open http://localhost:3000/ with your browser to see the result.
+# Thai QR Generator Demo
+This project is for demonstrate how to generate Thai QR Payment (PromptPay AnyID, TrueMoney) by using [PromptParse](https://github.com/maythiwat/promptparse) running on [Bun](https://bun.sh/) & [ElysiaJS](https://elysiajs.com/)!
